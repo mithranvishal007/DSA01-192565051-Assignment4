@@ -1,0 +1,1 @@
+Metro Smart-Card Fare Demonstration\nInner at 11:00: fare Rs 10.00, balance Rs 90.00\nOuter at 18:00: fare Rs 36.00, balance Rs 54.00\nMiddle at 9:00: denied; balance Rs 54.00\nPeak boundary checks (8,10,17,20): 1 0 1 0 \n
